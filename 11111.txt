@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>متجر أدو — باقات ورد</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>متجر أدو | باقات ورد</h1>
+<div class="bouquet-container" id="bouquetContainer"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
